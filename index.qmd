@@ -1,5 +1,5 @@
 ---
-title: "landon-liandong-yang.github.io"
+title: "Liandong (Landon) Yang"
 ---
 
 This is a Quarto website.
