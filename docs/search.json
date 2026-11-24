@@ -1,16 +1,44 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Download my CV (PDF)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Liandong (Landon) Yang",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Liandong (Landon) Yang\nPhD Candidate in Economics · Your University\n\n\n\nHello, I am Landon.\nI am a PhD candidate in economics at Your University. My research focuses on [field 1], [field 2], and [field 3]. [One more sentence about what you are working on or looking for.]\nEmail: you /at/ university.edu · CV (PDF)\n\n  \n\n\n\n\nResearch\nYour paper title\nStatus or journal · Paper\nAll papers and work in progress →\n\n\nTeaching\nCourse or role, university\nOne sentence about what you teach or assist with.\nTeaching details →"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "teaching",
+    "section": "",
+    "text": "Courses and teaching experience go here."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "research",
+    "section": "",
+    "text": "Paper title. One-sentence abstract. PDF"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "research",
+    "section": "",
+    "text": "Paper title. One-sentence abstract. PDF"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]

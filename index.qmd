@@ -2,10 +2,44 @@
 title: "Liandong (Landon) Yang"
 ---
 
-This is a Quarto website.
+# Liandong (Landon) Yang {.unnumbered}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+[PhD Candidate in Economics · Your University]{.subtitle-line}
 
-```{r}
-1 + 1
-```
+::: {.hero}
+![](assets/img/headshot.jpg){.headshot fig-alt="Photo of Liandong (Landon) Yang"}
+
+::: {.hero-text}
+Hello, I am Landon.
+
+I am a PhD candidate in economics at [Your University](https://your-university.edu). My research focuses on [field 1], [field 2], and [field 3]. [One more sentence about what you are working on or looking for.]
+
+**Email:** you /at/ university.edu · [CV](cv.qmd) ([PDF](assets/files/CV.pdf))
+
+::: {.social}
+[<i class="bi bi-linkedin"></i>](https://www.linkedin.com/in/your-profile "LinkedIn")
+[<i class="bi bi-mortarboard"></i>](https://scholar.google.com/citations?user=YOURID "Google Scholar")
+[<i class="bi bi-github"></i>](https://github.com/landon-liandong-yang "GitHub")
+:::
+:::
+:::
+
+::: {.card-section}
+### Research
+
+**Your paper title**
+
+*Status or journal* · [Paper](research.qmd)
+
+[All papers and work in progress →](research.qmd)
+:::
+
+::: {.card-section}
+### Teaching
+
+**Course or role, university**
+
+One sentence about what you teach or assist with.
+
+[Teaching details →](teaching.qmd)
+:::

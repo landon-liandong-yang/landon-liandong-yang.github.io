@@ -1,21 +1,24 @@
 project:
   type: website
   output-dir: docs
+
 website:
-  title: "landon-liandong-yang.github.io"
+  title: "Liandong (Landon) Yang"
+  description: "PhD candidate in economics. Research on [your topics]."
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+  page-footer:
+    center: "© Liandong (Landon) Yang · Built with Quarto"
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
-    toc: true
-
 
 
