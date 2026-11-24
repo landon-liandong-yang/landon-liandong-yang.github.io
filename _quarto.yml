@@ -4,8 +4,9 @@ project:
 
 website:
   title: "Liandong (Landon) Yang"
-  description: "PhD candidate in economics. Research on [your topics]."
-  navbar:
+  description: "Assitant Professor of Economics at Delta State University. Research on [your topics]."
+  navbar: 
+    title: false
     left:
       - href: research.qmd
         text: Research
