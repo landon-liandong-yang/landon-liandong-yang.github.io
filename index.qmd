@@ -2,9 +2,7 @@
 title: "Liandong (Landon) Yang"
 ---
 
-# Liandong (Landon) Yang {.unnumbered}
-
-[PhD Candidate in Economics · Your University]{.subtitle-line}
+[Assistant Professor in Economics @ Delta State University]{.subtitle-line}
 
 ::: {.hero}
 ![](assets/img/headshot.jpg){.headshot fig-alt="Photo of Liandong (Landon) Yang"}
@@ -12,9 +10,9 @@ title: "Liandong (Landon) Yang"
 ::: {.hero-text}
 Hello, I am Landon.
 
-I am a PhD candidate in economics at [Your University](https://your-university.edu). My research focuses on [field 1], [field 2], and [field 3]. [One more sentence about what you are working on or looking for.]
+I am an Assistant Professor in Economics at [Delta State University](https://www.deltastate.edu). My research focuses on sovereign debt, China's Economy, monetary policy and exchange rate regime. [One more sentence about what you are working on or looking for.]
 
-**Email:** you /at/ university.edu · [CV](cv.qmd) ([PDF](assets/files/CV.pdf))
+**Email:** lyang@deltastate.edu · [CV](cv.qmd) ([PDF](assets/files/CV.pdf))
 
 ::: {.social}
 [<i class="bi bi-linkedin"></i>](https://www.linkedin.com/in/your-profile "LinkedIn")
