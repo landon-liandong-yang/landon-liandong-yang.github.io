@@ -4,10 +4,12 @@ project:
 
 website:
   title: "Liandong (Landon) Yang"
-  description: "Assitant Professor of Economics at Delta State University. Research on [your topics]."
+  description: "Assitant Professor of Economics @ Delta State University. Research on [your topics]."
   navbar: 
     title: false
     left:
+      - href: index.qmd
+        text: Home
       - href: research.qmd
         text: Research
       - href: teaching.qmd
