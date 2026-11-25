@@ -3,7 +3,58 @@ title: "research"
 
 ---
 
+My research studies the components of aggregate demand and the institutions and frictions that shape them: **consumption**, **investment**, **government spending**, and **net exports**.
 
-## Working papers
+## Latest working paper
 
-**Paper title.** One-sentence abstract. [PDF](assets/files/paper.pdf)
+::: {.paper .featured}
+**Sustaining the Unsustainable? Greek Government Debt Before and After the Euro**
+
+*Job market paper · Working paper · [Month Year]* · [PDF](assets/files/greece_paper.pdf)
+
+<details>
+<summary>Abstract</summary>
+
+Using hand-collected fiscal data for 1957–2008, I ask how Greece sustained a high and apparently unsustainable level of government debt for decades, even though conventional empirical sustainability criteria point to unsustainability since at least the 1970s. I argue that the institutional transition into the euro area explains the timing. Before the euro, inflation, monetary accommodation, and currency depreciation relaxed the effective financing constraint and postponed the crisis. Euro membership removed these mechanisms. [Add one sentence on your main empirical finding.]
+</details>
+:::
+
+## Government spending
+
+::: {.paper}
+**Sustaining the Unsustainable? Greek Government Debt Before and After the Euro**
+
+*Job market paper · Working paper* · [PDF](assets/files/greece_paper.pdf)
+
+Fiscal sustainability, public debt composition, and the monetary-fiscal institutional setting.
+:::
+
+## Investment
+
+::: {.paper}
+**[Working title: Capacity Growth or Productivity Growth? Investment and TFP in Chinese Listed Firms]**
+
+*Work in progress*
+
+Is the growth in Chinese firms' production capacity driven by total factor productivity growth, or simply by investment in capacity? Uses public data on listed firms, compares state-owned and private firms, and compares performance across sectors.
+:::
+
+## Consumption
+
+::: {.paper}
+**[Paper title]**
+
+*[Status: work in progress / working paper]* · [PDF](assets/files/paper.pdf)
+
+[One or two sentences about the question.]
+:::
+
+## Net exports (exports and imports)
+
+::: {.paper}
+**[Paper title]**
+
+*[Status: work in progress / working paper]* · [PDF](assets/files/paper.pdf)
+
+[One or two sentences about the question.]
+:::

@@ -25,9 +25,10 @@ I am an Assistant Professor in Economics at [Delta State University](https://www
 ::: {.card-section}
 ### Research
 
-**Your paper title**
 
-*Status or journal* · [Paper](research.qmd)
+**Sustaining the Unsustainable? Greek Government Debt Before and After the Euro**
+
+*Job market paper* · [Paper](research.qmd)
 
 [All papers and work in progress →](research.qmd)
 :::
