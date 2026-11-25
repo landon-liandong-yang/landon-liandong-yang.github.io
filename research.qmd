@@ -19,7 +19,7 @@ Using hand-collected fiscal data for 1957–2008, I ask how Greece sustained a h
 </details>
 :::
 
-## Government spending
+## Government spending {#government-spending}
 
 ::: {.paper}
 **Sustaining the Unsustainable? Greek Government Debt Before and After the Euro**
@@ -29,7 +29,7 @@ Using hand-collected fiscal data for 1957–2008, I ask how Greece sustained a h
 Fiscal sustainability, public debt composition, and the monetary-fiscal institutional setting.
 :::
 
-## Investment
+## Investment {#investment}
 
 ::: {.paper}
 **[Working title: Capacity Growth or Productivity Growth? Investment and TFP in Chinese Listed Firms]**
@@ -39,7 +39,7 @@ Fiscal sustainability, public debt composition, and the monetary-fiscal institut
 Is the growth in Chinese firms' production capacity driven by total factor productivity growth, or simply by investment in capacity? Uses public data on listed firms, compares state-owned and private firms, and compares performance across sectors.
 :::
 
-## Consumption
+## Consumption {#consumption}
 
 ::: {.paper}
 **[Paper title]**
@@ -49,7 +49,7 @@ Is the growth in Chinese firms' production capacity driven by total factor produ
 [One or two sentences about the question.]
 :::
 
-## Net exports (exports and imports)
+## Net exports {#net-exports}
 
 ::: {.paper}
 **[Paper title]**

@@ -1,7 +1,11 @@
 ---
 title: "Liandong (Landon) Yang"
+page-layout: full
 ---
 
+:::::: {.page-grid}
+
+::::: {.main-col}
 [Assistant Professor in Economics @ Delta State University]{.subtitle-line}
 
 ::: {.hero}
@@ -40,3 +44,24 @@ Principles of Microeconomics, Principles of Macroeconomics (undergraduate), and 
 
 [Teaching details →](teaching.qmd)
 :::
+
+:::::
+
+::::: {.side-col}
+
+### Recent updates
+
+- [Month Year]{.update-date} Update about your job market paper, for example a new draft or a seminar.
+- [Month Year]{.update-date} Another update, for example a new course or a talk.
+- [Month Year]{.update-date} Website launched.
+
+### Categories
+
+- [Government spending](research.qmd#government-spending)
+- [Investment](research.qmd#investment)
+- [Consumption](research.qmd#consumption)
+- [Net exports](research.qmd#net-exports)
+
+:::::
+
+::::::

@@ -54,3 +54,42 @@
   margin: 0.8rem 0 1.8rem 0;
 }
 .course ul, .course ol { margin-bottom: 0; }
+
+/* Two-column homepage */
+.page-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 280px;
+  gap: 3rem;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.side-col {
+  align-self: start;
+  position: sticky;
+  top: 80px;
+  border-left: 1px solid #e5e5e5;
+  padding-left: 1.5rem;
+  margin-top: 2rem;
+}
+.side-col h3 {
+  margin-top: 0;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #666;
+}
+.side-col ul { list-style: none; padding-left: 0; margin-bottom: 1.8rem; }
+.side-col li { margin-bottom: 0.8rem; font-size: 0.95rem; }
+.update-date { display: block; color: #888; font-size: 0.8rem; }
+
+/* Stack on tablets and phones */
+@media (max-width: 900px) {
+  .page-grid { grid-template-columns: 1fr; }
+  .side-col {
+    position: static;
+    border-left: none;
+    padding-left: 0;
+    border-top: 1px solid #e5e5e5;
+    padding-top: 1rem;
+  }
+}
