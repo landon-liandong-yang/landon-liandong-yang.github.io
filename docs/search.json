@@ -51,15 +51,36 @@
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
-    "title": "teaching",
+    "title": "Teaching",
     "section": "",
-    "text": "Courses and teaching experience go here."
+    "text": "I teach economics to undergraduate and MBA students, both in person and online. Each course is organized around a small number of central questions."
+  },
+  {
+    "objectID": "teaching.html#principles-of-microeconomics",
+    "href": "teaching.html#principles-of-microeconomics",
+    "title": "Teaching",
+    "section": "Principles of Microeconomics",
+    "text": "Principles of Microeconomics\nUndergraduate · in person and online\n\nCentral question: how is price determined?\nThe course uses the supply and demand model to explain how prices are set, then asks how the model changes under different market structures:\n\nPerfect competition\nMonopoly\nOligopoly\nMonopolistic competition"
+  },
+  {
+    "objectID": "teaching.html#principles-of-macroeconomics",
+    "href": "teaching.html#principles-of-macroeconomics",
+    "title": "Teaching",
+    "section": "Principles of Macroeconomics",
+    "text": "Principles of Macroeconomics\nUndergraduate · in person and online\n\nCentral questions: how can an economy achieve long-run growth, and how can we reduce short-run fluctuations?\n\nMacroeconomic indicators: how we measure output, prices, and unemployment.\nThe long run: the determinants of economic growth.\nMoney, banking, and the Federal Reserve: how money is created and how monetary policy works.\nThe short run: why the economy fluctuates, and what policy can do about it."
+  },
+  {
+    "objectID": "teaching.html#managerial-economics",
+    "href": "teaching.html#managerial-economics",
+    "title": "Teaching",
+    "section": "Managerial Economics",
+    "text": "Managerial Economics\nMBA · in person and online\n\n[Central question of the course.]\n[Two or three sentences on what the course covers and how managers use the tools. Optionally list the main topics.]"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Liandong (Landon) Yang",
     "section": "",
-    "text": "Assistant Professor in Economics @ Delta State University\n\n\n\nHello, I am Landon.\nI am an Assistant Professor in Economics at Delta State University. My research focuses on sovereign debt, China’s Economy, monetary policy and exchange rate regime. [One more sentence about what you are working on or looking for.]\nEmail: lyang@deltastate.edu · CV (PDF)\n\n  \n\n\n\n\nResearch\nSustaining the Unsustainable? Greek Government Debt Before and After the Euro\nJob market paper · Paper\nAll papers and work in progress →\n\n\nTeaching\nCourse or role, university\nOne sentence about what you teach or assist with.\nTeaching details →"
+    "text": "Assistant Professor in Economics @ Delta State University\n\n\n\nHello, I am Landon.\nI am an Assistant Professor in Economics at Delta State University. My research focuses on sovereign debt, China’s Economy, monetary policy and exchange rate regime. [One more sentence about what you are working on or looking for.]\nEmail: lyang@deltastate.edu · CV (PDF)\n\n  \n\n\n\n\nResearch\nSustaining the Unsustainable? Greek Government Debt Before and After the Euro\nJob market paper · Paper\nAll papers and work in progress →\n\n\nTeaching\nPrinciples of Microeconomics, Principles of Macroeconomics (undergraduate), and Managerial Economics (MBA), in person and online.\nTeaching details →"
   }
 ]

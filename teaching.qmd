@@ -1,6 +1,44 @@
 ---
-title: "teaching"
+title: "Teaching"
 
 ---
 
-Courses and teaching experience go here.
+I teach economics to undergraduate and MBA students, both in person and online. Each course is organized around a small number of central questions.
+
+## Principles of Microeconomics
+
+*Undergraduate · in person and online*
+
+::: {.course}
+**Central question: how is price determined?**
+
+The course uses the supply and demand model to explain how prices are set, then asks how the model changes under different market structures:
+
+- Perfect competition
+- Monopoly
+- Oligopoly
+- Monopolistic competition
+:::
+
+## Principles of Macroeconomics
+
+*Undergraduate · in person and online*
+
+::: {.course}
+**Central questions: how can an economy achieve long-run growth, and how can we reduce short-run fluctuations?**
+
+1. **Macroeconomic indicators:** how we measure output, prices, and unemployment.
+2. **The long run:** the determinants of economic growth.
+3. **Money, banking, and the Federal Reserve:** how money is created and how monetary policy works.
+4. **The short run:** why the economy fluctuates, and what policy can do about it.
+:::
+
+## Managerial Economics
+
+*MBA · in person and online*
+
+::: {.course}
+**[Central question of the course.]**
+
+[Two or three sentences on what the course covers and how managers use the tools. Optionally list the main topics.]
+:::

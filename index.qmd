@@ -36,9 +36,7 @@ I am an Assistant Professor in Economics at [Delta State University](https://www
 ::: {.card-section}
 ### Teaching
 
-**Course or role, university**
-
-One sentence about what you teach or assist with.
+Principles of Microeconomics, Principles of Macroeconomics (undergraduate), and Managerial Economics (MBA), in person and online.
 
 [Teaching details →](teaching.qmd)
 :::

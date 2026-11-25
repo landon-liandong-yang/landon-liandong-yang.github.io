@@ -47,3 +47,10 @@
   padding: 1rem 1.3rem;
 }
 .paper details summary { cursor: pointer; color: #0d6efd; margin-top: 0.4rem; }
+
+.course {
+  border-left: 3px solid #d0d7de;
+  padding: 0.2rem 0 0.2rem 1rem;
+  margin: 0.8rem 0 1.8rem 0;
+}
+.course ul, .course ol { margin-bottom: 0; }
